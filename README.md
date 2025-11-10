@@ -90,3 +90,13 @@ IoT-Enhanced-Load-Management/
 - [Blynk IoT Platform](https://blynk.io/)
 - [ESP32 Documentation](https://docs.espressif.com/)
 - [DHT Sensor Library](https://github.com/adafruit/DHT-sensor-library)
+
+  ## 🔲 Block Diagram
+![Block Diagram](docs/README-image/block-diagram.jpg)
+
+## ⚡ Circuit Diagram
+![Circuit Diagram](docs/README-image/circuit.jpg)
+
+## Result
+![Result](docs/README-image/result.png)
+
