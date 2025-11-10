@@ -1,10 +1,11 @@
 
-#define BLYNK_TEMPLATE_ID "TMPL3f7qC78zU"
-#define BLYNK_TEMPLATE_NAME "Project 1"
-#define BLYNK_AUTH_TOKEN "aWzyUrEmdhfgajd0RfqPvzzAb2AFq86L"
+#define BLYNK_TEMPLATE_ID "Your_Template_ID"
+#define BLYNK_TEMPLATE_NAME "Your_Project_Name"
+#define BLYNK_AUTH_TOKEN "Your_Blynk_Token"
 
-char ssid[] = "OnePlus 9R";
-char pass[] = "ironman27";
+char ssid[] = "Your_WiFi_Name";
+char pass[] = "Your_WiFi_Password";
+
 
 bool fetch_blynk_state = true; 
 #include <WiFi.h>
@@ -268,3 +269,4 @@ void button4Handler(AceButton* button, uint8_t eventType, uint8_t buttonState) {
       break;
   }
 }
+
