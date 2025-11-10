@@ -100,3 +100,7 @@ IoT-Enhanced-Load-Management/
 ## Result
 ![Result](docs/README-image/result.png)
 
+## 🎬 Project Demo
+[▶️ Watch the Demo Video](docs/README-image/Media1.mp4)
+
+
