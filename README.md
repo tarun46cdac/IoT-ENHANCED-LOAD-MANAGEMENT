@@ -77,7 +77,7 @@ IoT-Enhanced-Load-Management/
 
 ---
 
-## 🧾 Team Members
+## 🧾 Team Members (of PSG COLLEGE OF TECHNOLOGY)
 - **Jayakrishnaa S** – 21E908  
 - **Kani Brama Giri S** – 21E911  
 - **Kovarthanan K** – 21E914  
